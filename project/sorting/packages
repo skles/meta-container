@@ -1,0 +1,1 @@
+build-essential ca-certificates r-base r-cran-ggplot2 r-cran-tidyr r-cran-dplyr r-cran-stringr sudo zlib1g-dev
